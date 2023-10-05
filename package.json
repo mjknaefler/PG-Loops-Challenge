@@ -1,0 +1,12 @@
+{
+  "name": "pg-loops-challenge",
+  "version": "1.0.0",
+  "description": "Loops Code Challenge: You have been hired by a company that sells products online. They want you to create a javascript program that will help them manage their inventory. The program should be able to loop through an array of products and perform certain tasks based on the product information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
